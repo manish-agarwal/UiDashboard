@@ -1,0 +1,36 @@
+.thumbnail:hover {
+    /* height: 500px; */
+    /* width: 900px; */
+    /* transform: scale(1.5,1.5); */
+    /* opacity: 1; */
+    position: absolute;
+    /* z-index: 2; */
+
+    box-shadow: 0px 0px 120px grey;
+    z-index: 2;
+    /* -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1.5);
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1.5);   
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1.5); */
+    transition: all 200ms ease-in;
+    transform: scale(1.5);
+}
+/* .thumbnail {
+    background-color: orange;
+} */
+.thumbnail img {
+    border: 5px solid black;
+}
+/* img:hover {
+    height: 500px;
+    width: 900px;
+} */
+.caption {
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
