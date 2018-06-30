@@ -21,6 +21,7 @@
     "@angular/platform-browser-dynamic": "^2.3.1",
     "@angular/router": "^3.3.1",
     "bootstrap": "^3.3.7",
+    "carousel": "0.0.3",
     "core-js": "^2.4.1",
     "jquery": "^3.3.1",
     "rxjs": "^5.0.1",

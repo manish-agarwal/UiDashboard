@@ -5,7 +5,7 @@ export class ImgService {
 
   imgsrc=[
   {
-      "source": "../assets/1.jpg",
+      "source": "../assets/4.jpg",
       "altText": "Royal Enfield",
       "captionText": "Royal Enfield Ladakh"
   },
@@ -15,12 +15,12 @@ export class ImgService {
     "captionText": "Ladakh"
   },
   {
-    "source": "../assets/3.jpg",
+    "source": "../assets/1.jpg",
     "altText": "Leh",
     "captionText": "Leh on a Bullet"
   },
   {
-    "source": "../assets/4.jpg",
+    "source": "../assets/3.jpg",
     "altText": "Travel is Life",
     "captionText": "Travel is Life"
   }
